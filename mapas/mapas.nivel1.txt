@@ -1,1 +1,3 @@
 Almacenamos direrentes mapas del juego
+
+mapas 2
